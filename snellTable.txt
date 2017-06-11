@@ -1,0 +1,8 @@
+Refraction angle for air to air is: 45.00
+ and the critical angle is: 90.00
+Refraction angle for air to water is: 32.12
+ and the critical angle is: NaN
+Refraction angle for air to glass is: 27.72
+ and the critical angle is: NaN
+Refraction angle for air to diamond is: 16.99
+ and the critical angle is: NaN
